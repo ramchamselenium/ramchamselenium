@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramchamselenium aka Ramcham Gaid.
 - 👀 I’m interested in successfully finishing a high quality product with the use of modern methods in testing and software development.
-- 🌱 I’m currently learning anything about testing and developing Web, Mobile, Desktop, Artificial Intelligence, Autmented Reality, Metaverse and the power of Cloud Computing. 
+- 🌱 I’m currently learning anything about testing and developing Web, Mobile, Desktop, Artificial Intelligence, Augmented Reality, Metaverse and the power of Cloud Computing. 
 - 💞️ I’m looking to collaborate on empowering people in technology. Helping them improve and learn about my past experiences in life. 
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/ramcham-gaid-a3218937/.
 
