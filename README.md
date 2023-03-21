@@ -7,7 +7,7 @@
 - :speech_balloon: More about me:
    ```
    - 11 years as Lead QA Automation Architect.
-   - Senior Software Development Engineer in Test / Senior IT Consultant at Walt Disney World RCG
+   - Senior Software Development Engineer in Test / Senior IT Consultant at Walt Disney World RCG.
    - Software Engineer at Pantheon.io.
    - Lead QA Automation Engineer at Magenic.
    - QA Automation Engineer at Telos/Teloworks.
