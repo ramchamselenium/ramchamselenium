@@ -6,15 +6,9 @@
 
 - :speech_balloon: More about me:
    ```
-   - 11 years as Lead QA Automation Architect.
-   - Lead Senior Software Development Engineer in Test / Senior IT Consultant at The Walt Disney Company RCG.
-   - Software Engineer at Pantheon.io.
-   - Lead QA Automation Engineer at Magenic.
-   - QA Automation Engineer at Telos/Teloworks.
-   - Business Owner Digital Nomad Siargao: https://www.instagram.com/digital_nomad_siargao.
-   - ISTQB Certified.
-   - Rising Star Award at Pantheon.
-   - Test Automation Trainor Badge at Magenic.
+I started my IT career in 2012. I have more than 12 years of work experience as a Lead QA Automation Architect. I am currently a Lead Software Development Engineer in Test at The Walt Disney Company. Previously I worked as a Software Engineer at Pantheon.io in 2018, a unicorn status startup company in San Francisco, USA. In 2015 I was Lead QA Automation Engineer at Magenic now known as Cognizant, one of the leading Technology Consulting firms in the USA. Way back in 2012, I was a QA Automation Engineer at Telos/Teloworks, the leading provider of cyber, cloud and enterprise security solutions for the world’s most security-conscious organizations in the USA. I have ISTQB Certification, a Rising Star Award at Pantheon, And Test Automation Trainor Badge at Magenic. Lastly, I am also a Business Owner called Digital Nomad Siargao.
+
+Plues I have achieved the following: 
    - Teloworks Inc. Philippines (Telos Corp.) June 2013 Employee of the Month.
    - Best attendance employee of Advance World Systems, Inc. (September 2011 to January 2012).
    - Obtained NIST Certification.
