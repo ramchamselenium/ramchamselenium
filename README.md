@@ -1,18 +1,79 @@
-- 👋 Hi, I’m @ramchamselenium aka Ramcham Gaid.
-- 👀 I’m interested in successfully finishing a high quality product with the use of modern methods in testing and software development.
-- 🌱 I’m currently learning anything about testing and developing Web, Mobile, Desktop, Artificial Intelligence, Augmented Reality, Metaverse and the power of Cloud Computing. 
-- 💞️ I’m looking to collaborate on empowering people in technology. Helping them improve and learn about my past experiences in life. 
-- 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/ramcham-gaid-a3218937/.
+# 👋 Hi, I'm Ramcham Gaid (@ramchamselenium)
 
-- :speech_balloon: More about me:
-  I started my IT career in 2012. I have more than 12 years of work experience as a Lead QA Automation Architect. I am currently a Lead Software Development Engineer in Test at The Walt Disney Company. Previously I worked as a Software Engineer at Pantheon.io in 2018, a unicorn status startup company in San Francisco, USA. In 2015 I was Lead QA Automation Engineer at Magenic now known as Cognizant, one of the leading Technology Consulting firms in the USA. Way back in 2012, I was a QA Automation Engineer at Telos/Teloworks, the leading provider of cyber, cloud and enterprise security solutions for the world’s most security-conscious organizations in the USA. I have ISTQB Certification, a Rising Star Award at Pantheon, And Test Automation Trainor Badge at Magenic. Lastly, I am also a Business Owner called Digital Nomad Siargao.
+### Senior Software Development Engineer in Test | QA Automation Architect | Technology Enthusiast
 
-  Plus I have achieved the following: 
-   - Teloworks Inc. Philippines (Telos Corp.) June 2013 Employee of the Month.
-   - Best attendance employee of Advance World Systems, Inc. (September 2011 to January 2012).
-   - Obtained NIST Certification.
+I'm a passionate Quality Engineering professional with **12+ years of experience** in software testing, test automation, and software development. I specialize in building scalable automation frameworks, improving software quality, and helping engineering teams deliver reliable, high-quality products.
 
-<!---
-ramchamselenium/ramchamselenium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe quality is not just about finding bugs — it's about building better products, empowering teams, and creating exceptional user experiences.
+
+### 🚀 What I'm Interested In
+
+- **Test Automation:** Designing scalable, maintainable, and reusable automation frameworks.
+- **Quality Engineering:** Modern testing strategies, shift-left testing, CI/CD, and continuous quality.
+- **Web & Mobile Testing:** Automating web, native mobile, and cross-platform applications.
+- **API & Backend Testing:** API automation, database validation, and data quality engineering.
+- **AI in Software Testing:** Exploring AI-powered testing, intelligent automation, and emerging technologies.
+- **Cloud & DevOps:** Cloud computing, containerization, and automation pipelines.
+- **Emerging Technologies:** Artificial Intelligence, Augmented Reality, and the evolving technology landscape.
+
+### 🛠️ Technologies & Tools
+
+**Automation & Programming**
+- JavaScript | Python | Java
+- Selenium | WebdriverIO | Appium
+- Playwright | Cypress
+- Pytest
+
+**API & Database Testing**
+- REST API Testing | Postman
+- MySQL | MongoDB | Amazon Redshift
+- SQL | Data Validation | ETL Testing
+
+**DevOps & CI/CD**
+- GitHub Actions | Jenkins
+- Docker | Kubernetes
+- Azure DevOps
+
+**Reporting & Quality**
+- Allure Reports
+- Test Strategy & Planning
+- Performance & Reliability Testing
+- Agile & Scrum
+
+### 💼 Professional Experience
+
+I started my IT career in 2012 and have had the opportunity to work with technology companies and engineering teams across different industries.
+
+- **The Walt Disney Company** – Lead Software Development Engineer in Test
+- **Pantheon.io** – Software Engineer (2018), working with a San Francisco-based technology startup.
+- **Magenic (now Cognizant)** – Lead QA Automation Engineer (2015), contributing to technology consulting and software engineering projects.
+- **Telos / Teloworks** – QA Automation Engineer, working with a company specializing in cybersecurity, cloud, and enterprise security solutions.
+
+### 🏆 Certifications & Achievements
+
+- ISTQB Certified Tester
+- NIST Certification
+- Rising Star Award – Pantheon
+- Test Automation Trainer Badge – Magenic
+- Employee of the Month – Teloworks Inc. Philippines (June 2013)
+- Best Attendance Employee – Advance World Systems, Inc. (September 2011 – January 2012)
+
+### 🌏 Beyond Technology
+
+I'm also a business owner and entrepreneur behind **Digital Nomad Siargao**.
+
+I enjoy connecting with people from different backgrounds, exploring new technologies, traveling, and sharing knowledge and experiences.
+
+I'm passionate about empowering people in technology and helping aspiring QA engineers grow their skills and careers.
+
+### 🤝 Let's Connect & Collaborate
+
+I'm always open to connecting with fellow engineers, QA professionals, technology enthusiasts, and people who share the same passion for innovation.
+
+- 💼 LinkedIn: [Ramcham Gaid](https://www.linkedin.com/in/ramcham-gaid-a3218937/)
+- 🐙 GitHub: [@ramchamselenium](https://github.com/ramchamselenium)
+
+---
+
+*"Quality is everyone's responsibility. Build with purpose, test with confidence, and never stop learning."*
+
